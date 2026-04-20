@@ -1,7 +1,7 @@
-3Q. Create a small flutter application working model of your interest.
-Ans:
-Aim: Analyze a question paper automatically and provide a summary for it.
-Code:
+//3Q. Create a small flutter application working model of your interest.
+//Ans:
+//Aim: Analyze a question paper automatically and provide a summary for it.
+//Code:
 import 'package:flutter/material.dart';
 void main() {
   runApp(QuestionAnalyzerApp());
